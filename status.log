@@ -30,3 +30,33 @@
 2022-07-20 12:16:15,447 - __main__ - INFO - Weather in Berlin: 36.64
 2022-07-20 14:10:42,143 - __main__ - INFO - Token value: 1234
 2022-07-20 14:10:42,285 - __main__ - INFO - Weather in Berlin: 37.34
+2022-07-20 16:11:32,101 - __main__ - INFO - Token value: 1234
+2022-07-20 16:11:32,270 - __main__ - INFO - Weather in Berlin: 36.32
+2022-07-20 18:11:08,871 - __main__ - INFO - Token value: 1234
+2022-07-20 18:11:09,450 - __main__ - INFO - Weather in Berlin: 35.75
+2022-07-20 20:10:07,208 - __main__ - INFO - Token value: 1234
+2022-07-20 20:10:07,807 - __main__ - INFO - Weather in Berlin: 29.16
+2022-07-20 22:08:32,880 - __main__ - INFO - Token value: 1234
+2022-07-20 22:08:33,309 - __main__ - INFO - Weather in Berlin: 27.72
+2022-07-21 00:51:04,670 - __main__ - INFO - Token value: 1234
+2022-07-21 00:51:04,945 - __main__ - INFO - Weather in Berlin: 25.62
+2022-07-21 03:32:21,183 - __main__ - INFO - Token value: 1234
+2022-07-21 03:32:21,622 - __main__ - INFO - Weather in Berlin: 24.17
+2022-07-21 04:33:49,059 - __main__ - INFO - Token value: 1234
+2022-07-21 04:33:49,712 - __main__ - INFO - Weather in Berlin: 23.8
+2022-07-21 06:11:40,676 - __main__ - INFO - Token value: 1234
+2022-07-21 06:11:41,078 - __main__ - INFO - Weather in Berlin: 24.1
+2022-07-21 08:11:51,774 - __main__ - INFO - Token value: 1234
+2022-07-21 08:11:51,925 - __main__ - INFO - Weather in Berlin: 26.61
+2022-07-21 10:10:48,231 - __main__ - INFO - Token value: 1234
+2022-07-21 10:10:48,658 - __main__ - INFO - Weather in Berlin: 29.39
+2022-07-21 12:16:51,452 - __main__ - INFO - Token value: 1234
+2022-07-21 12:16:52,210 - __main__ - INFO - Weather in Berlin: 29.02
+2022-07-21 14:10:13,059 - __main__ - INFO - Token value: 1234
+2022-07-21 14:10:13,760 - __main__ - INFO - Weather in Berlin: 24.62
+2022-07-21 16:11:48,481 - __main__ - INFO - Token value: 1234
+2022-07-21 16:11:49,254 - __main__ - INFO - Weather in Berlin: 24.51
+2022-07-21 18:11:19,590 - __main__ - INFO - Token value: 1234
+2022-07-21 18:11:19,965 - __main__ - INFO - Weather in Berlin: 25.79
+2022-07-21 20:10:30,244 - __main__ - INFO - Token value: 1234
+2022-07-21 20:10:30,328 - __main__ - INFO - Weather in Berlin: 22.77
